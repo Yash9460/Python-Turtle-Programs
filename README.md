@@ -4,7 +4,7 @@ This repository contains all of the source code of turtle programs.
 # Table of Contents
 
  1. Introduction
- 2. IronMen
+ 2. Hexagonal Spiral
  3. Pikachu
  4. Circle Pattern
  5. Shinchan
@@ -16,9 +16,9 @@ Turtle graphics is a popular way for introducing programming to kids. Virtual tu
 
 The original Turtle software was developed by Wally Feurzig and Seymour Papert in 1966.
 
-# IronMen
+# Hexagonal Spiral
 
-![S1](https://user-images.githubusercontent.com/73324896/118785525-8f202180-b8ae-11eb-9f79-aa9822d80ebe.png)
+![S6](https://user-images.githubusercontent.com/73324896/118788773-bcba9a00-b8b1-11eb-8694-a56fd97dbec9.png)
 
 # Pikachu
 
